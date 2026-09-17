@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate with hands-on experience in **Linux system administration, web hosting, server management, networking, and application deployment**.
 
-Currently working as a **System Administrator Trainee at Hashroot**, where I work with Linux servers, Apache, AWS EC2, DNS, SSL/TLS, SSH, databases, PHP applications, and WordPress hosting.
+Currently working as a **System Administrator**, I work with Linux servers, Apache, AWS EC2, DNS, SSL/TLS, SSH, databases, PHP applications, and WordPress hosting.
 
 I'm currently building deeper expertise in **DevOps, Cloud Infrastructure, Automation, and Cybersecurity**.
 
